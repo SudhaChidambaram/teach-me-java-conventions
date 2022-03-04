@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="powerpackage.PowerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-03-04T08:03:50" hostname="SIVA" time="0.035">
+  <properties/>
+  <testcase name="twoRaisedToThreeIsSix()" classname="powerpackage.PowerTest" time="0.025"/>
+  <testcase name="oneRaisedToOneIsOne()" classname="powerpackage.PowerTest" time="0.002"/>
+  <testcase name="twoRaisedToTwoIsFour()" classname="powerpackage.PowerTest" time="0.002"/>
+  <testcase name="twoRaisedToOneIsTwo()" classname="powerpackage.PowerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
